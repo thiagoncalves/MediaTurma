@@ -1,0 +1,6 @@
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\MediaTurma\bin\Debug\MediaTurma.exe.config
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\MediaTurma\bin\Debug\MediaTurma.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\MediaTurma\bin\Debug\MediaTurma.pdb
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\MediaTurma\obj\Debug\MediaTurma.csprojAssemblyReference.cache
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\MediaTurma\obj\Debug\MediaTurma.exe
+C:\Users\thiago.novaes\Desktop\Thiago\Programing\Homework - Repetição\MediaTurma\obj\Debug\MediaTurma.pdb
